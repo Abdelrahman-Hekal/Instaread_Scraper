@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Instaread_Scraper", "Instaread_Scraper.pyproj", "{FDC8A292-25CD-4350-9E60-FDB7AFD235AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDC8A292-25CD-4350-9E60-FDB7AFD235AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC8A292-25CD-4350-9E60-FDB7AFD235AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B65512C1-1CCE-421B-B002-9E80C2B7A476}
+	EndGlobalSection
+EndGlobal
